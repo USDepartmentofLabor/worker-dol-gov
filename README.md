@@ -1,3 +1,6 @@
+>[!WARNING]
+>This repository has been archived and is no longer maintained. The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should ***not*** be used in production systems.
+
 # Worker.gov
 
 This is the public repo for [Worker.gov](http://worker.gov/), which is a tool to help workers learn about and exercise their rights. It represents a joint effort by the U.S. Department of Labor, the Equal Employment Opportunity Commission, the National Labor Relations Board, and the Department of Justice.
